@@ -9,7 +9,7 @@ import { getStorage } from "firebase/storage"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAScK7LcDFV3WJ46UL1R-ttFVSlAxO1dgo",
+  apiKey: "AIzaSyAScK7LcDFV3WJ46UL1RSVUL-ttFVSlAxO1dgo",
   authDomain: "interview-guard-for-interview.firebaseapp.com",
   projectId: "interview-guard-for-interview",
   storageBucket: "interview-guard-for-interview.firebasestorage.app",
